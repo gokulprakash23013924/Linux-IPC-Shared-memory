@@ -73,7 +73,9 @@ int main()
 	shmdt(str);
 
 	return 0;
+
 }
+```
 ```
 #include<unistd.h> 
 #include<stdlib.h> 
@@ -120,7 +122,7 @@ if (shmdt(shared_memory) == -1)
 fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 } exit(EXIT_SUCCESS);
 }
-
+```
 
 
 ## OUTPUT
