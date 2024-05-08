@@ -55,7 +55,10 @@ int main()
 
 ## OUTPUT
 
-![322714277-475e242b-c017-494e-985d-e81d453b6733](https://github.com/04Varsha/Linux-IPC-Shared-memory/assets/149035374/de0b1d3f-e53d-44fa-8002-869bcb2dad1a)
+![image](https://github.com/gokulprakash23013924/Linux-IPC-Shared-memory/assets/150231472/698c7cad-ff86-4b3c-8ba3-36135fd1561d)
+![image](https://github.com/gokulprakash23013924/Linux-IPC-Shared-memory/assets/150231472/6b094470-b8d1-4cdb-8987-f52b810d7652)
+![image](https://github.com/gokulprakash23013924/Linux-IPC-Shared-memory/assets/150231472/7c1323af-7d70-4cf4-8c72-cce5c02a1b19)
+
 
 
 # RESULT:
